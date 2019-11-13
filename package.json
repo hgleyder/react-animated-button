@@ -1,7 +1,7 @@
 {
   "name": "react-animated-button",
   "version": "1.0.0",
-  "description": "Customizable Button component that includes some preset animatiob when the component is hover",
+  "description": "Customizable Button component that includes some preset animations when the component is hover",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
