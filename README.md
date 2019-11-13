@@ -20,6 +20,4 @@ import AnimatedButton from 'react-animated-buttons';
 return (
     <AnimatedButton>Example Button</AnimatedButton>
 )
-
-// Returns: There are 5 apples.
 ```
