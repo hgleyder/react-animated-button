@@ -3,8 +3,8 @@ module.exports = {
   serverPort: 3100,
   assetsDir: ['src/assets'],
   ribbon: {
-    url: 'https://github.com/timbergus/react-library-template',
-    text: 'Fork me on GitHub',
+    url: 'https://github.com/hgleyder/react-animated-button.git',
+    text: 'View on GitHub',
   },
   skipComponentsWithoutExample: true,
   template: {

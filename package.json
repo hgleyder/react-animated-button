@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timbergus/react-library-boilerplate.git"
+    "url": "https://github.com/hgleyder/react-animated-button.git"
   },
   "files": [
     "dist",
