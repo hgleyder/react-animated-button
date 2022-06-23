@@ -78,7 +78,7 @@
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-plugin-react": "7.11.1",
     "jest": "23.6.0",
-    "jsdom": "12.2.0",
+    "jsdom": "16.5.0",
     "react-styleguidist": "8.0.2",
     "rimraf": "2.6.2",
     "sass": "1.14.3",
